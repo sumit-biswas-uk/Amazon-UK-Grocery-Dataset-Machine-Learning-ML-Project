@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project aims to develop predictive machine learning models for forecasting revenue based on the features of the Amazon UK Grocery Dataset.
+This project aims to develop predictive machine learning models for forecasting revenue based on the features of the Amazon UK Grocery Dataset. Revenue prediction is crucial for businesses in formulating effective strategies, optimizing inventory management, and maximizing revenue potential. Leveraging ANN, a powerful machine learning technique, we seek to accurately forecast revenue trends based on historical data.
 
 ## Dataset
 

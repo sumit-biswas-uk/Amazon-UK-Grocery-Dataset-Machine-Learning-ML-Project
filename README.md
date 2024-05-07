@@ -15,7 +15,7 @@ EDA involves analysing the dataset to gain insights into its structure, finding 
 
 ## Data Visualization
 
-Visualization of revenue trends, brand and product performance, relationships between features and target variables, and distributions to understand data characteristics.
+Data visualization techniques are employed to visually represent key insights and relationships within the dataset. Plots, charts, and graphs are utilized to communicate findings effectively and facilitate understanding.
 
 ## Data Cleaning
 

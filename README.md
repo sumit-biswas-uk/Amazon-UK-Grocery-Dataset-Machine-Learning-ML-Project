@@ -1,4 +1,4 @@
-# Amazon-UK-Grocery-Dataset-Machine-Learning-ML-Project.
+# Amazon UK Grocery Dataset Machine Learning (ML) Project.
 
 
 ## Overview

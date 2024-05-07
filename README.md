@@ -27,7 +27,7 @@ Re-evaluation of correlations after data cleaning to determine feature importanc
 
 ## Data Preprocessing
 
-Conversion of date columns to numerical format, splitting data into training and testing sets, and addressing key observations during data preprocessing.
+The data preprocessing phase involves converting temporal information into numerical format. We split the data into training and testing sets, mimicking real-world scenarios, where historical data is used to predict future outcomes.
 
 ## Machine Learning
 
